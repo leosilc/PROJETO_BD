@@ -24,7 +24,7 @@ Antes de iniciar a aplicação, é necessário criar a estrutura do banco de dad
     ```python
     user = "SEU_USUARIO"
     pwd = "SUA_SENHA"
-    dsn = "orclgrad1.icmc.usp.br/pdb_elaine.icmc.usp.br" # Ou o endereço do seu servidor
+    dsn = "NOME_HOST/NOME_SERVICO" 
     ```
 
 ## ▶️ Como Rodar
